@@ -1,0 +1,18 @@
+{"tenantName": [
+  "D1841M00015-Swe",
+  "Vivalnk-Swe",
+  "mvm-web-test"
+],
+  "D1841M00015-Swe": {
+    "tenandId": "746e74affe981f6a5746d09826d3c40",
+    "tenantKey": "Dmsry[`8jss^PW>p<]1b3:Fr9M;9zWRqhE3kXZEv"
+  },
+  "Vivalnk-Swe": {
+    "tenandId": "746e746f992139268c447ebf8450a55",
+    "tenantKey": "HxDv1c?fL:9P]KD5:@rFXIEwQwq:ReeQ:S95rcn<"
+},
+  "mvm-web-test": {
+    "tenandId": "746e745526474e65d04aec84f7b6e80",
+    "tenantKey": "HoHzzcaHPjh_AK=<GUd9WF1TJvRwh@i0<MsB_kw0"
+}
+}

@@ -1,0 +1,132 @@
+{"tenantName": [
+  "mvm-app",
+  "mvm-app-test",
+  "Vivalnk",
+  "VL-sandbox",
+  "vivalnk-testing-ucsf-af",
+  "vivalnk-testing-stanford-sleep",
+  "vivalnk-testing-vanguard",
+  "vivalnk-testing-monash-uni",
+  "GE-sandbox",
+  "CL001",
+  "RBSTVITALS01",
+  "VL-HZ",
+  "mvm-web-test",
+  "UCSF-AF",
+  "VAL-EL-CTA",
+  "Respir-AI",
+  "FifthEye",
+  "Genentech",
+  "HeartcoR",
+  "Test",
+  "Clario",
+  "Pfizer",
+  "AirStrap",
+  "webportal-staging"
+],
+  "mvm-app": {
+    "tenandId": "6170706009be6b1f2045cbac77",
+    "tenantKey": "Whn_Nla;UtMLt@uUsQL]PDLx^?h46n<ri?v`K[@D"
+  },
+    "mvm-app-test": {
+    "tenandId": "617070e40daf63ba334ece90d1",
+    "tenantKey": "@baIevnyO<iqo<r5L5VYK0BH[CFvJXUf0W4Y;WZF"
+  },
+  "Vivalnk": {
+    "tenandId": "3a6a7700c57f4f26a2ec4b0a3",
+    "tenantKey": "h^JHhAPQ4Z^^b5_itTnprO34uP^;OaBAT1_ydli>"
+  },
+  "VL-sandbox": {
+    "tenandId": "399a43ad3acf4fbb9c24954e6",
+    "tenantKey": "BFqukKPu`iO_V<bnTUI=NfUy5j<WULUOAc1JPcnb"
+  },
+  "vivalnk-testing-ucsf-af": {
+    "tenandId": "vivalnk-testing-ucsf-af",
+    "tenantKey": "CkUm4O=UBQa9:1=9e5YmNFzw[wYIqACQ?>17vrDo"
+  },
+  "vivalnk-testing-stanford-sleep": {
+    "tenandId": "vivalnk-testing-stanford-sleep",
+    "tenantKey": "CkUm4O=UBQa9:1=9e5YmNFzw[wYIqACQ?>17vrDo"
+  },
+  "vivalnk-testing-vanguard": {
+    "tenandId": "vivalnk-testing-vanguard",
+    "tenantKey": "CkUm4O=UBQa9:1=9e5YmNFzw[wYIqACQ?>17vrDo"
+  },
+  "vivalnk-testing-monash-uni": {
+    "tenandId": "vivalnk-testing-monash-uni",
+    "tenantKey": "CkUm4O=UBQa9:1=9e5YmNFzw[wYIqACQ?>17vrDo"
+  },
+  "GE-sandbox": {
+    "tenandId": "92a00ffb068d4b278e6210863",
+    "tenantKey": "tmj?fXxRSiy96^cy_Eq]NvdIsgmOO^hz>:CfjJTM"
+  },
+  "CL001": {
+    "tenandId": "3066ccacca704a00a7ab08940",
+    "tenantKey": "AlwEajusZg4W?cik8EK==dWHiwONyOl2PY4Yc0I["
+  },
+  "RBSTVITALS01": {
+    "tenandId": "1fb3d02b8ebb475db43fd23df",
+    "tenantKey": "f<37oZOtO4xPYIH=S7SoHFqUm;=@4FT;[dCxv`lY"
+  },
+  "VL-HZ": {
+    "tenandId": "1dcd3ba5188f4981889ac02be",
+    "tenantKey": "xND<6]_m?O=vENLZvqD>D>jZczow0c?b2f=zU;Dr"
+  },
+  "mvm-web-test": {
+    "tenandId": "88eb2f5deec84d8ba2ca8f24b",
+    "tenantKey": "gt13?w^XHnUy;H7vIRwDS1=pqv[<UhFCfQVKxY>B"
+  },
+  "UCSF-AF": {
+    "tenandId": "6d7b44bb0fa64c31a3a69030b",
+    "tenantKey": "V1HlhChuS5cYvuzj[d?NWM3KSMQf?<=6D`?0=OAi"
+  },
+  "VAL-EL-CTA": {
+    "tenandId": "62a9ed08c84341f08fcc1afc7",
+    "tenantKey": "cqlkY=GHGXr>r1j5dL^=hW9PFooy<[SGu5dF>XDo"
+  },
+   "Respir-AI": {
+    "tenandId": "bc44b327f6484939b4ae4ea0e",
+    "tenantKey": "XQmsr2`3<r7`VGMS05sK32xQwgi`u@FY0q@BV3k>"
+  },
+     "FifthEye": {
+    "tenandId": "746e744595c64f28b941739dc2e83ea",
+    "tenantKey": "FiD3RZ0[k[EMX;iwnH[crRoCG9d[QkBg^`M1:lNv"
+  },
+     "Genentech": {
+    "tenandId": "746e74c4e26f15b72045c89752abdeb",
+    "tenantKey": "ZfhT:kO;DGJrrdVvQnkoy>w=:Nuveo;LK@1BYL??"
+  },
+  "HeartcoR": {
+    "tenandId": "746e744ceb6addd8eb4fe681fb8128a",
+    "tenantKey": "m[Vw:BDLFEIGgXX_HU4O^S07IkhEuAScKsLHRzd["
+  },
+  "Test": {
+    "tenandId": "746e74b3b1de7e25ac495ca1c44a4cc",
+    "tenantKey": "l;qSjHTFE@^a3FY4yRn:WO_=fwomK@k<J8uxzwcH"
+  },
+  "Clario": {
+    "tenandId": "746e74160b27c5d88446169501491f1",
+    "tenantKey": "O^3JZGPMmL_f]LP=3BJw<tl9PHsltaYH=rtb3QfF"
+  },
+  "Pfizer": {
+    "tenandId": "746e744cd1c31dfd5d4e1d9f083c1e4",
+    "tenantKey": "Ih=sdY>qaY?sh?LjG6=Aangb_l6OL?@Mr;qR6LK4"
+  },
+  "AirStrap": {
+    "tenandId": "746e74cecd59dc502e4e3f806a14d56",
+    "tenantKey": ";ATJCX=c0=Q`tDvCPYbj`t54Z0kgMhcRVqW?i=ZK"
+  },
+  "InMedica": {
+    "tenandId": "746e74c77c34240409470cb1e2a3acc",
+    "tenantKey": "8LavGDe<4C?9:Ic=?[h@rQG9::tbbEq]j5_T=OX^"
+  },
+  "EDG-5506-201": {
+    "tenandId": "746e74911fe49f261a4d088a5e6130b",
+    "tenantKey": "UxZQP<o@?vk9@^PP<EfowLY<zFp0LaMvzUB`9JNr"
+  },
+   "webportal-staging": {
+    "tenandId": "b48d286110794fc6b01e31a77",
+    "tenantKey": "01S7y7fH`gu:wyf=bs5WC^>>ze_RJS`2S>^pTTQe"
+  }
+
+}
